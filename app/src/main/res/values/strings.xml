@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FootBall Score Counter</string>
+    <string name="teama">Team A</string>
+    <string name="teamb">Team B</string>
+    <string name="scorea">0</string>
+    <string name="scoreb">0</string>
+    <string name="yellows">YELLOW CARDS</string>
+    <string name="reds">RED CARDS</string>
+    <string name="yellow">YELLOW CARD</string>
+    <string name="red">RED CARD</string>
+    <string name="goal">GOAL!!</string>
+    <string name="penalty">PENALTY</string>
+    <string name="penalties">PENALTIES</string>
+    <string name="reset">RESET</string>
+</resources>
