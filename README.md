@@ -1,2 +1,2 @@
 # FootBallScoreCounter
-Assignment project FootBall Score and Fouls counter for Udacity Android Basics.
+An Android app to keep track of goals and fouls during the World Cup.
